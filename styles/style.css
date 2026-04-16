@@ -119,16 +119,16 @@
   text-transform: uppercase;
 }
 
-.aligned-text_left { 
-  text-align: left; 
+.aligned-text_left {
+  text-align: left;
 }
 
-.aligned-text_center { 
-  text-align: center; 
+.aligned-text_center {
+  text-align: center;
 }
 
-.aligned-text_right { 
-  text-align: right; 
+.aligned-text_right {
+  text-align: right;
 }
 
 .cover__description {
@@ -207,16 +207,16 @@
   background-size: cover;
 }
 
-.card_type_film { 
-  background-image: url(../images/card-lot-01.jpg); 
+.card_type_film {
+  background-image: url(../images/card-lot-01.jpg);
 }
 
-.card_type_book { 
-  background-image: url(../images/card-lot-02.jpg); 
+.card_type_book {
+  background-image: url(../images/card-lot-02.jpg);
 }
 
-.card_type_picture { 
-  background-image: url(../images/card-lot-03.jpg); 
+.card_type_picture {
+  background-image: url(../images/card-lot-03.jpg);
 }
 
 .card__title {
